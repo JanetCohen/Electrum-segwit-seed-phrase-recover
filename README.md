@@ -1,5 +1,5 @@
 # Electrum-segwit-seed-phrase-recover
-Electrum seed recovery missing last 2 word And the known zpub.
+Electrum seed recovery missing last 2 word And the known zpub.ONLY SUPPORTS 12 WORDS,It may be necessary to edit the code if you need more words or are missing more.
 
 example zpub
 zpub6nHN3pRoqoT6KRYYADcbYjdU3DS11MhdB47YZSNYe7Cs3L2M1oQMAxK5dUM1wh4egV54b5JX9RpcAAYTVNaPDgyJ2JwAPTxkXcRMfwmYL1t
