@@ -48,13 +48,13 @@ with open("english.txt", "r") as file:
 
 
 
-base_mnemonic = "visa ivory old captain magnet adapt produce pumpkin demand device"
+base_mnemonic = "civil isolate satoshi crisp issue spawn august phrase spy stool"
 
 
 
 # Target fingerprint
 
-target_fingerprint = bytes.fromhex("888ad7f7")
+target_fingerprint = bytes.fromhex("635013dd")
 
 
 
